@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/xiaoxuansaliha/Desktop/Programming/Q-sharp-Hello/Pure Q# Works/Basic/Basic.csproj": {}
+    "/Users/xiaoxuansaliha/Desktop/Programming/The-Q-Sharp/Basic/Basic.csproj": {}
   },
   "projects": {
-    "/Users/xiaoxuansaliha/Desktop/Programming/Q-sharp-Hello/Pure Q# Works/Basic/Basic.csproj": {
+    "/Users/xiaoxuansaliha/Desktop/Programming/The-Q-Sharp/Basic/Basic.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/xiaoxuansaliha/Desktop/Programming/Q-sharp-Hello/Pure Q# Works/Basic/Basic.csproj",
+        "projectUniqueName": "/Users/xiaoxuansaliha/Desktop/Programming/The-Q-Sharp/Basic/Basic.csproj",
         "projectName": "Basic",
-        "projectPath": "/Users/xiaoxuansaliha/Desktop/Programming/Q-sharp-Hello/Pure Q# Works/Basic/Basic.csproj",
+        "projectPath": "/Users/xiaoxuansaliha/Desktop/Programming/The-Q-Sharp/Basic/Basic.csproj",
         "packagesPath": "/Users/xiaoxuansaliha/.nuget/packages/",
-        "outputPath": "/Users/xiaoxuansaliha/Desktop/Programming/Q-sharp-Hello/Pure Q# Works/Basic/obj/",
+        "outputPath": "/Users/xiaoxuansaliha/Desktop/Programming/The-Q-Sharp/Basic/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/xiaoxuansaliha/.nuget/NuGet/NuGet.Config"

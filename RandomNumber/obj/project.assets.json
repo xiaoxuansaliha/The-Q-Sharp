@@ -7978,11 +7978,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/xiaoxuansaliha/Desktop/Programming/Q-sharp-Hello/Pure Q# Works/RandomNumber/RandomNumber.csproj",
+      "projectUniqueName": "/Users/xiaoxuansaliha/Desktop/Programming/The-Q-Sharp/RandomNumber/RandomNumber.csproj",
       "projectName": "RandomNumber",
-      "projectPath": "/Users/xiaoxuansaliha/Desktop/Programming/Q-sharp-Hello/Pure Q# Works/RandomNumber/RandomNumber.csproj",
+      "projectPath": "/Users/xiaoxuansaliha/Desktop/Programming/The-Q-Sharp/RandomNumber/RandomNumber.csproj",
       "packagesPath": "/Users/xiaoxuansaliha/.nuget/packages/",
-      "outputPath": "/Users/xiaoxuansaliha/Desktop/Programming/Q-sharp-Hello/Pure Q# Works/RandomNumber/obj/",
+      "outputPath": "/Users/xiaoxuansaliha/Desktop/Programming/The-Q-Sharp/RandomNumber/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/xiaoxuansaliha/.nuget/NuGet/NuGet.Config"

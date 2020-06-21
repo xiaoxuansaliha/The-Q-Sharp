@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "qwN93vOXjYe0cbg7sJasIrzNxXKPaWHwYlpp6LL3J04EvQQUrqFMO4GRq0d0czCeQNRnCzC1Bfp1SF8kmOJXCg==",
+  "dgSpecHash": "6oVUgeRhv3Uop6Cf2y9wvfFdz46AaEBzuz6bLBbkXSxMusXkefYAhCWwXLr/BT1Ve3tROTU+jZRxAc3ruUTVNQ==",
   "success": true,
-  "projectFilePath": "/Users/xiaoxuansaliha/Desktop/Programming/Q-sharp-Hello/Pure Q# Works/RandomNumber/RandomNumber.csproj",
+  "projectFilePath": "/Users/xiaoxuansaliha/Desktop/Programming/The-Q-Sharp/RandomNumber/RandomNumber.csproj",
   "expectedPackageFiles": [
     "/Users/xiaoxuansaliha/.nuget/packages/azure.core/1.0.1/azure.core.1.0.1.nupkg.sha512",
     "/Users/xiaoxuansaliha/.nuget/packages/azure.identity/1.1.0/azure.identity.1.1.0.nupkg.sha512",

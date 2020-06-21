@@ -7978,11 +7978,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/xiaoxuansaliha/Desktop/Programming/Q-sharp-Hello/Pure Q# Works/Hello/Hello.csproj",
+      "projectUniqueName": "/Users/xiaoxuansaliha/Desktop/Programming/The-Q-Sharp/Hello/Hello.csproj",
       "projectName": "Hello",
-      "projectPath": "/Users/xiaoxuansaliha/Desktop/Programming/Q-sharp-Hello/Pure Q# Works/Hello/Hello.csproj",
+      "projectPath": "/Users/xiaoxuansaliha/Desktop/Programming/The-Q-Sharp/Hello/Hello.csproj",
       "packagesPath": "/Users/xiaoxuansaliha/.nuget/packages/",
-      "outputPath": "/Users/xiaoxuansaliha/Desktop/Programming/Q-sharp-Hello/Pure Q# Works/Hello/obj/",
+      "outputPath": "/Users/xiaoxuansaliha/Desktop/Programming/The-Q-Sharp/Hello/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/xiaoxuansaliha/.nuget/NuGet/NuGet.Config"

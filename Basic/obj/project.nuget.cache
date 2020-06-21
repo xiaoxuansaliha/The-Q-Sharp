@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "0E5JfggGRJNy7FHho9+K3J28NoT4ipFqen87JRLzq2yQ9gBsVKQSQQs7vpgd3Gdo+a/yQzmWR1sAJSGpEwIfoA==",
+  "dgSpecHash": "lqKeFSCaV2Gq4l9yhI3kr0tVU7FYFF7ndD7mhsMSNBphyZyf3F3Tp5LcrSBt8QsR0WJap8RpT0YDOD5ocCSBIg==",
   "success": true,
-  "projectFilePath": "/Users/xiaoxuansaliha/Desktop/Programming/Q-sharp-Hello/Pure Q# Works/Basic/Basic.csproj",
+  "projectFilePath": "/Users/xiaoxuansaliha/Desktop/Programming/The-Q-Sharp/Basic/Basic.csproj",
   "expectedPackageFiles": [
     "/Users/xiaoxuansaliha/.nuget/packages/azure.core/1.0.1/azure.core.1.0.1.nupkg.sha512",
     "/Users/xiaoxuansaliha/.nuget/packages/azure.identity/1.1.0/azure.identity.1.1.0.nupkg.sha512",
